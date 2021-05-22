@@ -29,6 +29,7 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/Html5-ED8B00?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top margin:6px 4px"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/Css3-ED8B00?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top margin:6px 4px"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top margin:6px 4px"> </a> 
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsc" style="vertical-align:top margin:6px 4px"/> </a>
 <a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="https://img.shields.io/badge/VS_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs" style="vertical-align:top margin:6px 4px"/> </a>
 <a href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://img.shields.io/badge/eclipse-121011?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse" style="vertical-align:top margin:6px 4px"> </a>
@@ -38,5 +39,4 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.shields.io/badge/MsSQL-5C2D91?style=for-the-badge&logoColor=white" alt="mssql" style="vertical-align:top margin:6px 4px"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-DD8A00?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top margin:6px 4px"> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/Postgresql-ED8B00?style=for-the-badge&logo=postgresql&logoColor=blue" alt="postgresql" style="vertical-align:top margin:6px 4px"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top margin:6px 4px"> </a> 
 </p>
