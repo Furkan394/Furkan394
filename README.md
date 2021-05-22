@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Spring**;
 
-- 📝 I regularly write articles on [furkancakiroglu](www.furkancakiroglu.com);
+- 📝 I regularly write articles on [www.furkancakiroglu.com](www.furkancakiroglu.com);
 
 - 💬 Ask me about **anything**;
 
