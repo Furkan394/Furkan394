@@ -1,25 +1,42 @@
 <h1 align="center">Hi 👋, I'm Furkan Emre Çakıroğlu</h1>
 <h3 align="center">I am trying to be a good software developer. I am improving myself about web technologies. I am also an artificial intelligence, deep learning enthusiast and researcher.</h3>
 
-- 🔭 I’m currently working on [HRMS](https://github.com/Furkan394/HRMS)
+- 🔭 I’m currently working on [HRMS](https://github.com/Furkan394/HRMS);
 
-- 🌱 I’m currently learning **Java, Spring**
+- 🌱 I’m currently learning **Java, Spring**;
 
-- 📝 I regularly write articles on [furkancakiroglu](www.furkancakiroglu.com)
+- 📝 I regularly write articles on [furkancakiroglu](www.furkancakiroglu.com);
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything**;
 
-- 📫 How to reach me **furkanncakiroglu@gmail.com**
+- 📫 How to reach me **furkanncakiroglu@gmail.com**;
 
-- 📄 Know about my experiences [CV](https://drive.google.com/drive/u/0/folders/1dzVJtZbH45TmWLbeJZayk8ayvLFZX0V-)
+- 📄 Know about my experiences [CV](https://drive.google.com/drive/u/0/folders/1dzVJtZbH45TmWLbeJZayk8ayvLFZX0V-);
 
-- 📝 GNO: **3,51**
+- 📝 GNO: **3,51**;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/emrelumos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="emrelumos" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/furkan-emre-cakiroglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="furkan-emre-cakiroglu" height="30" width="40" /></a>
+<a align="center" href="https://twitter.com/emrelumos"> <img alt="emrelumos" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="linkd" style="vertical-align:top margin:6px 4px">
+<a align="center" href="https://www.linkedin.com/in/furkan-emre-cakiroglu/"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkd" style="vertical-align:top margin:6px 4px">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://code.visualstudio.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg" alt="vscode" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=purple" alt="java" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-ED8B00?style=for-the-badge&logo=spring&logoColor=green" alt="spring" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/Html5-ED8B00?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top margin:6px 4px"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/Css3-ED8B00?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top margin:6px 4px"/> </a>
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsc" style="vertical-align:top margin:6px 4px"/> </a>
+<a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="https://img.shields.io/badge/VS_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs" style="vertical-align:top margin:6px 4px"/> </a>
+<a href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://img.shields.io/badge/eclipse-121011?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/.net-ED8B00?style=for-the-badge&logo=.net&logoColor=blue" alt="dotnet" style="vertical-align:top margin:6px 4px"> </a> 
+<a href="https://flutter.dev" target="_blank"> <img src="https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="vertical-align:top margin:6px 4px"> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top margin:6px 4px"> </a>  
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.shields.io/badge/MsSQL-5C2D91?style=for-the-badge&logoColor=white" alt="mssql" style="vertical-align:top margin:6px 4px"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-DD8A00?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top margin:6px 4px"> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/Postgresql-ED8B00?style=for-the-badge&logo=postgresql&logoColor=blue" alt="postgresql" style="vertical-align:top margin:6px 4px"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top margin:6px 4px"> </a> 
+</p>
