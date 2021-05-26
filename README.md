@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Furkan Emre Çakıroğlu
+<h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Furkan Emre Çakıroğlu </h1>
 <h3 align="center">I am trying to be a good software developer. I am improving myself about web technologies. I am also an artificial intelligence, deep learning enthusiast and researcher.</h3>
 
 <br>
