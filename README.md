@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Furkan Emre Çakıroğlu</h1>
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Furkan Emre Çakıroğlu
 <h3 align="center">I am trying to be a good software developer. I am improving myself about web technologies. I am also an artificial intelligence, deep learning enthusiast and researcher.</h3>
+
+<br>
+
+<img align="right" alt="GIF" src="https://github.com/Furkan394/Furkan394/blob/main/code.gif" width="500" height="320" />
+
+<h4 align="left"> Talking about Personal Stuffs: </h4>
 
 - 🔭 I’m currently working on [HRMS](https://github.com/Furkan394/HRMS);
 
@@ -15,14 +21,15 @@
 
 - 📝 GNO: **3,51**;
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left"> Connect with me: </h4>
+
 <p align="left">
 <a align="center" href="https://twitter.com/emrelumos"> <img alt="emrelumos" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="linkd" style="vertical-align:top margin:6px 4px">
-<a align="center" href="https://www.linkedin.com/in/furkan-emre-cakiroglu/"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkd" style="vertical-align:top margin:6px 4px">
-</a>
+<a align="center" href="https://www.linkedin.com/in/furkan-emre-cakiroglu/"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkd" style="vertical-align:top margin:6px 4px"> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
+
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=purple" alt="java" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-ED8B00?style=for-the-badge&logo=spring&logoColor=green" alt="spring" style="vertical-align:top margin:6px 4px"> </a>
