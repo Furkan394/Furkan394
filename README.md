@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences --> [CV](https://drive.google.com/drive/u/0/folders/1dzVJtZbH45TmWLbeJZayk8ayvLFZX0V-);
 
-- 📝 GNO: **3,51**;
+- 📝 GNO: **3,44**;
 
 <h4 align="left"> Connect with me: </h4>
 
