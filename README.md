@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Java, Spring**;
 
-- 📝 I regularly write articles on [furkancakiroglu.com](https://www.furkancakiroglu.com);
-
 - 💬 Ask me about **anything**;
 
 - 📫 How to reach me **furkanncakiroglu@gmail.com**;
