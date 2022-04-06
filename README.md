@@ -30,18 +30,20 @@
 
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=purple" alt="java" style="vertical-align:top margin:6px 4px"> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-ED8B00?style=for-the-badge&logo=spring&logoColor=green" alt="spring" style="vertical-align:top margin:6px 4px"> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/Html5-ED8B00?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top margin:6px 4px"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/Css3-ED8B00?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top margin:6px 4px"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top margin:6px 4px"> </a> 
+<a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="vertical-align:top margin:6px 4px"> </a> 
+<a href="https://dart.dev" target="_blank"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top margin:6px 4px"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top margin:6px 4px"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top margin:6px 4px"> </a> 
+ 
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellijidea" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="androidstudio" style="vertical-align:top margin:6px 4px"> </a> 
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsc" style="vertical-align:top margin:6px 4px"/> </a>
 <a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="https://img.shields.io/badge/VS_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs" style="vertical-align:top margin:6px 4px"/> </a>
-<a href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://img.shields.io/badge/eclipse-121011?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse" style="vertical-align:top margin:6px 4px"> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/.net-ED8B00?style=for-the-badge&logo=.net&logoColor=blue" alt="dotnet" style="vertical-align:top margin:6px 4px"> </a> 
-<a href="https://flutter.dev" target="_blank"> <img src="https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="vertical-align:top margin:6px 4px"> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top margin:6px 4px"> </a>  
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.shields.io/badge/MsSQL-5C2D91?style=for-the-badge&logoColor=white" alt="mssql" style="vertical-align:top margin:6px 4px"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-DD8A00?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top margin:6px 4px"> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/Postgresql-ED8B00?style=for-the-badge&logo=postgresql&logoColor=blue" alt="postgresql" style="vertical-align:top margin:6px 4px"/> </a> 
+<a href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top margin:6px 4px"> </a>  
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top margin:6px 4px"> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" style="vertical-align:top margin:6px 4px"/> </a> 
 </p>
