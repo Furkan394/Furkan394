@@ -47,3 +47,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top margin:6px 4px"> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" style="vertical-align:top margin:6px 4px"/> </a> 
 </p>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Furkan394"><img src="https://github-readme-stats.vercel.app/api?username=Furkan394&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Furkan394's GitHub stats" /></a>
