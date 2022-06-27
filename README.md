@@ -7,9 +7,9 @@
 
 <h4 align="left"> Talking about Personal Stuffs: </h4>
 
-- 🔭 I’m currently working on [HRMS](https://github.com/Furkan394/HRMS);
+- 🔭 I’m currently working on [MyFinalProject](https://github.com/Furkan394/MyFinalProject);
 
-- 🌱 I’m currently learning **Java, Spring**;
+- 🌱 I’m currently learning **C#**;
 
 - 💬 Ask me about **anything**;
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences --> [CV](https://drive.google.com/drive/u/0/folders/1dzVJtZbH45TmWLbeJZayk8ayvLFZX0V-);
 
-- 📝 GNO: **3,47**;
+- 📝 GNO: **3,51**;
 
 <h4 align="left"> Connect with me: </h4>
 
