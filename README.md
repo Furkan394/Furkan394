@@ -31,9 +31,10 @@
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=purple" alt="java" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".net" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://flutter.dev" target="_blank"> <img src="https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="vertical-align:top margin:6px 4px"> </a> 
 <a href="https://dart.dev" target="_blank"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" style="vertical-align:top margin:6px 4px"> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top margin:6px 4px"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top margin:6px 4px"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top margin:6px 4px"> </a> 
