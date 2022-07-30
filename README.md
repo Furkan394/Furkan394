@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [RentACarProject](https://github.com/Furkan394/RentACarProject) and [Front-End](https://github.com/Furkan394/RentACar-Frontend);
 
-- 🌱 I’m currently learning **C# , .NET**;
+- 🌱 I’m currently learning **C# , .NET and Angular**;
 
 - 💬 Ask me about **anything**;
 
