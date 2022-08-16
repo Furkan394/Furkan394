@@ -33,6 +33,8 @@
 <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".net" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://angular.io" target="_blank"> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://reactjs.org" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://flutter.dev" target="_blank"> <img src="https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="vertical-align:top margin:6px 4px"> </a> 
 <a href="https://dart.dev" target="_blank"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top margin:6px 4px"/> </a>
@@ -42,12 +44,14 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellijidea" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="androidstudio" style="vertical-align:top margin:6px 4px"> </a> 
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsc" style="vertical-align:top margin:6px 4px"/> </a>
-<a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="https://img.shields.io/badge/VS_2022-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vs" style="vertical-align:top margin:6px 4px"/> </a>
+<a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="vs" style="vertical-align:top margin:6px 4px"/> </a>
 <a href="https://www.eclipse.org/downloads/" target="_blank"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top margin:6px 4px"> </a>  
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="vertical-align:top margin:6px 4px"> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" style="vertical-align:top margin:6px 4px"/> </a> 
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2019" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mssql" style="vertical-align:top margin:6px 4px"/> </a> 
 </p>
+
 
 <b>My GitHub Stats</b>
 
