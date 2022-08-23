@@ -7,9 +7,9 @@
 
 <h4 align="left"> Talking about Personal Stuffs: </h4>
 
-- 🔭 I’m currently working on [RentACarProject](https://github.com/Furkan394/RentACarProject) and [Front-End](https://github.com/Furkan394/RentACar-Frontend);
+- 🔭 I’m currently working on [nArchitecture](https://github.com/Furkan394/nArchitecture);
 
-- 🌱 I’m currently learning **C# , .NET and Angular**;
+- 🌱 I’m currently learning **C#, .NET;
 
 - 💬 Ask me about **anything**;
 
