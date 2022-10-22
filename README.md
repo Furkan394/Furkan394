@@ -27,10 +27,10 @@
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
-
+[![](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/tr-tr/dotnet/welcome)
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".net" style="vertical-align:top margin:6px 4px"> </a>
+<a href="https://learn.microsoft.com/tr-tr/dotnet/welcome" target="_blank"> <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".net" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=purple" alt="java" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://angular.io" target="_blank"> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" style="vertical-align:top margin:6px 4px"> </a>
