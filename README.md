@@ -27,7 +27,7 @@
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
-[![](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/tr-tr/dotnet/welcome)
+
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="vertical-align:top margin:6px 4px"> </a>
 <a href="https://learn.microsoft.com/tr-tr/dotnet/welcome" target="_blank"> <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".net" style="vertical-align:top margin:6px 4px"> </a>
