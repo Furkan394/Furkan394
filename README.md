@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> I'm Furkan Emre Çakıroğlu </h1>
-<h3 align="center">I am trying to be a qualified software developer. I am currently interested in web development and mobile programming.</h3>
+<h3 align="center">I am trying to be a qualified software developer. I am working on .NET and Java technologies.</h3>
 
 <br>
 
