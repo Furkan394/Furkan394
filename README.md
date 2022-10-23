@@ -7,9 +7,9 @@
 
 <h4 align="left"> Talking about Personal Stuffs: </h4>
 
-- 🔭 I’m currently working on [Kodlama.io.Devs](https://github.com/Furkan394/Kodlama.io.Devs);
+- 🔭 I’m currently working on [ECommerceAPI](https://github.com/Furkan394/ECommerceAPI);
 
-- 🌱 I’m currently learning **C#, .NET;
+- 🌱 I’m currently learning **C#, .NET Core, CQRS**;
 
 - 💬 Ask me about **anything**;
 
