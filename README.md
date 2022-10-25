@@ -3,11 +3,11 @@
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/Furkan394/Furkan394/blob/main/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Furkan394/Furkan394/blob/main/code.gif" width="450" height="320" />
 
 <h4 align="left"> Talking about Personal Stuffs: </h4>
 
-- 🔭 I’m currently working on [ECommerceAPI](https://github.com/Furkan394/ECommerceAPI);
+- 🔭 I’m currently working on [ECommerceAPI](https://github.com/Furkan394/ECommerceAPI) and [ECommerceClient](https://github.com/Furkan394/ECommerceClient);
 
 - 🌱 I’m currently learning **C#, .NET Core, CQRS**;
 
