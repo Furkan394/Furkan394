@@ -7,7 +7,7 @@
 
 <h4 align="left"> Talking about Personal Stuffs: </h4>
 
-- 🔭 I’m currently working on [ECommerceAPI](https://github.com/Furkan394/ECommerceAPI) and [ECommerceClient](https://github.com/Furkan394/ECommerceClient);
+- 🔭 I’m currently working on [ECommerceAPI](https://github.com/Furkan394/ECommerceAPI);
 
 - 🌱 I’m currently learning **C#, .NET Core, CQRS**;
 
