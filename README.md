@@ -7,12 +7,6 @@
 
 <h4 align="left"> Talking about Personal Stuffs: </h4>
 
-- 🔭 I’m currently working on [ECommerceAPI](https://github.com/Furkan394/ECommerceAPI);
-
-- 🌱 I’m currently learning **C#, .NET Core, CQRS**;
-
-- 💬 Ask me about **anything**;
-
 - 📫 How to reach me **furkanncakiroglu@gmail.com**;
 
 - 📄 Know about my experiences --> [CV](https://drive.google.com/drive/u/0/folders/1dzVJtZbH45TmWLbeJZayk8ayvLFZX0V-);
