@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences --> [CV](https://drive.google.com/drive/u/0/folders/1dzVJtZbH45TmWLbeJZayk8ayvLFZX0V-);
 
-- 📝 GPA: **3,51**;
-
 <h4 align="left"> Connect with me: </h4>
 
 <p align="left">
