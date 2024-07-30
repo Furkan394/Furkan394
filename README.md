@@ -14,7 +14,6 @@
 <h4 align="left"> Connect with me: </h4>
 
 <p align="left">
-<a align="center" href="https://twitter.com/emrelumos"> <img alt="emrelumos" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="linkd" style="vertical-align:top margin:6px 4px">
 <a align="center" href="https://www.linkedin.com/in/furkan-emre-cakiroglu/"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkd" style="vertical-align:top margin:6px 4px"> </a>
 </p>
 
